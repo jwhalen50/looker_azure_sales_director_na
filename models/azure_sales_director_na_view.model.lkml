@@ -5,3 +5,4 @@ include: "/views/**/*.view"
 
 explore: transactions {}
 explore: azure_sales_director_na_view {}
+explore: whoami {}
